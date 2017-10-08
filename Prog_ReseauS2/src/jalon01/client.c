@@ -13,7 +13,7 @@
 #define INVALID_SOCKET -1
 #define MESSAGE 50
 
-
+//Coucou
 ssize_t readline(char *buf) {
   scanf("%s", buf);
 }
